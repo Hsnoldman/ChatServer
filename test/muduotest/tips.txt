@@ -1,0 +1,11 @@
+工程目录格式：
+
+/bin 存放可执行文件
+/lib 存放库文件
+/include 存放头文件
+/src 存放源文件
+/build 存放cmake编译生成的中间文件
+/example/test 存放示例或测试
+/thirdparty 存放第三方依赖
+CMakeLists.txt
+autubuild.sh
