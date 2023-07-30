@@ -14,6 +14,9 @@
 
 7.CMake构建项目
 
+### 项目编译
+清空/bin和/build目录，进入/build目录执行 cmake.. make
+
 ### 项目启动
 
 #### 启动Redis服务
